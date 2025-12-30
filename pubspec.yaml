@@ -9,8 +9,7 @@ environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
-  asn1lib:
-    path: asn1lib
+  asn1lib: ^1.0.0
   quiver: ^3.0.0
   crypto_keys: ^0.3.0+1
 
